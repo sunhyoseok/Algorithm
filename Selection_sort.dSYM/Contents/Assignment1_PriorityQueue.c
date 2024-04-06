@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include <stdint.h>
 #define HEAP_MAX 500000
+
+
 
 //  Heap implementation
 
